@@ -64,9 +64,9 @@ This repository contains my practical work and projects. Feel free to explore, u
     </tr>
 </table>
 
-## Codewars stats
+## Problem solving
 
-![Codewars](https://github.r2v.ch/codewars?user=Foksen&hide_clan=true&theme=gradient&animation=false)
+![Codewars](https://www.codewars.com/users/Foksen/badges/large)
 
 ## Literally me
 
