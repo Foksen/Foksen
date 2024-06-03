@@ -1,10 +1,8 @@
-# Hello, I'm Foksen :alien:
+# Foksen :kissing_heart:
 
 ## About me
 
-My name is Igor, I study in Moscow at RTU MIREA. This repository contains my practical work and projects. You can use whatever you want.
-
-If you have any questions about the code (I doubt that anyone will read it, but still), you can write to me in private messages.
+Hello, world! I'm Igor, a passionate learner and coder currently pursuing my studies at the RTU MIREA (Moscow). This repository contains my practical work and projects. Feel free to explore, use, or even build upon the code here. If you stumble upon something interesting, have any questions, or just want to say hello, don't hesitate to reach out to me in private messages.
 
 ## Hard skills
 
@@ -70,8 +68,6 @@ If you have any questions about the code (I doubt that anyone will read it, but 
 
 ## Codewars stats
 
-![Codewars](https://github.r2v.ch/codewars?user=Foksen&hide_clan=true&theme=gradient)
-
-#
+![Codewars](https://github.r2v.ch/codewars?user=Foksen&hide_clan=true&theme=gradient&animation=false)
 
 ![Mario](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
