@@ -64,7 +64,7 @@ This repository contains my practical work and projects. Feel free to explore, u
     </tr>
 </table>
 
-## Problem solving
+## Codewars stats
 
 ![Codewars](https://www.codewars.com/users/Foksen/badges/large)
 
