@@ -19,14 +19,10 @@ This repository contains my practical work and projects. Feel free to explore, u
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-### REST
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![JSON](https://camo.githubusercontent.com/0f16dfeeaeef040e8ebf06c6330752c38ea27ea1b682e627eae863cf465e7202/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a736f6e2d3545354335433f7374796c653d666f722d7468652d6261646765266c6f676f3d6a736f6e266c6f676f436f6c6f723d7768697465)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### DBMS
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps
 
